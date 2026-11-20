@@ -11,5 +11,5 @@
 	branch = 2018_R1
 [submodule "hdl"]
 	path = hdl
-	url = https://github.com/minimum-sauce/cov-com-hdl.git
+	url = https://github.com/minimum-sauce/cov-comm-hdl.git
 	branch = covert-dsp
