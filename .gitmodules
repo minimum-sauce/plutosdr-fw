@@ -12,4 +12,4 @@
 [submodule "hdl"]
 	path = hdl
 	url = https://github.com/minimum-sauce/cov-com-hdl.git
-	branch = covert-dps
+	branch = covert-dsp
